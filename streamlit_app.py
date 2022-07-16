@@ -2,7 +2,7 @@ import streamlit
 import pandas
 import requests
 #import snowflake.connector
-python -m pip install --upgrade pip
+#python -m pip install --upgrade pip
 
 python --version
 
