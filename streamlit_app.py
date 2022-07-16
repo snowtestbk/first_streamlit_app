@@ -1,7 +1,10 @@
 import streamlit
 import pandas
 import requests
-import snowflake.connector
+#import snowflake.connector
+python -m pip install --upgrade pip
+
+python --version
 
 streamlit.title('My Moms New Healthy Diner')
 
